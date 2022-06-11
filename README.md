@@ -4,9 +4,11 @@
  ## depencies
   - tensorflowjs
   - p5js
- 
- ![screenshot of tfjs polynominal regression sketch](screenshot.png)
- [youtube link](https://youtube.com/shorts/FK5mzcAnz0I?feature=share)
+ ## links
+  - [try it](https://clod44.github.io/tfjs-polynomial-regression/)
+  - [video (youtube)](https://youtube.com/shorts/FK5mzcAnz0I?feature=share)
+ ## screenshots
+ ![screenshot of tfjs polynominal regression sketch](screenshot.png)  
  
  
  
